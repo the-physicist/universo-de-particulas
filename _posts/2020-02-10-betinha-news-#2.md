@@ -4,7 +4,7 @@ layout: single
 classes: wide
 header:
   image: "/assets/images/posts/betinha.jpg"
-  teaser: /assets/images/posts/betinha.jpg/
+  teaser: "/assets/images/posts/betinha.jpg"
   caption: "Créditos: [**Martin  Sattler**](https://unsplash.com/photos/mBz6QjRZKvc) "
 categories: 
                 - Astronomia          
