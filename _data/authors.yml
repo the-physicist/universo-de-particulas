@@ -1,0 +1,22 @@
+# Authors
+
+Marcos Oliveira:
+  name             : "Marcos Oliveira"
+  avatar           : "/assets/images/authors/author-marcos.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Um estudande aprendendo a aprender constantemente. E às vezes compartilho o que acho que sei."
+  location         : "Physics @ UFTM"
+  # email            : "email.marcos.oliveira@gmail.com"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/omethiz"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/particlemarcos"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/_mvoliveira_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/methz"
+   

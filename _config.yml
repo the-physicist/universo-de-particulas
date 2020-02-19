@@ -1,0 +1,168 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+## Minhas Principais Configurações
+# Informações gerais do site
+
+title: "Universo de Partículas"
+subtitle: "Da Estranheza Quântica às Maravilhas do Cosmo"
+title_separator: " | " # coloca o titúlo do site no título da aba em qualquer página
+logo: "/assets/images/site/logo.png" 
+locale: "pt-BR"
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: air
+search: true
+description:  "Universo de Partículas é um blog de divulgação científica focado 
+                      nas áreas de Astronomia e Física de Partículas."
+
+# Configurações de conexão
+url: "https://universodeparticulas.com.br 
+baseurl: "/universo-de-particulas"
+
+# Compartilhando com Cards no Twitter
+twitter:
+  username: "particlemarcos"
+facebook:
+  username: "omethiz"  
+og_image: "/assets/images/site/facebook-share.jpg" # Imagem de capa padrão pra compartilhar 
+
+# Habilitando comentários com Facebook
+comments:
+  provider: "facebook" 
+  facebook:  # https://developers.facebook.com/docs/plugins/comments
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
+
+# Contato e redes gerais do site
+email: email.marcos.oliveira@gmail.com
+twitter_username: particlemarcos
+github_username: the-physicist
+
+# Padronizações
+teaser: /assets/images/site/related-thumb.jpg # capa (miniaturas) dos links "relacionados" em cada post
+breadcrumbs: true # add um separador de navegação
+words_per_minute: 300 
+
+# Social e biografia do site
+author:
+  name   : "The Physicist"
+  avatar : "/assets/images/site/welcome.png"
+  bio    : "Olá, humano. Estou feliz pelo seu interesse na estranheza quântica e na vastidão do Universo. 
+              Veja nossas publicações recentes e explore o site. Bons estudos!"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/universodeparticulas/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/particlemarcos"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/the-physicist"
+    
+# Build settings
+markdown: kramdown
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone:  America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+  - _includes
+  - _series
+  - _assets
+  - assets
+  
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/universodeparticulas/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/particlemarcos"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/the-physicist"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/_mvoliveira_"
+
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _Traduções
+  - scope:
+      path: "_traducoes"
+      type: traducoes
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+collections:
+  traducoes:
+    output: true
+    permalink: /:collection/:path/
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
