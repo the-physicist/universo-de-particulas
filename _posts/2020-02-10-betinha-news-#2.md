@@ -3,8 +3,8 @@ title: "Betinhas News #2"
 layout: single
 classes: wide
 header:
-  image: "/assets/images/posts/betinha.jpg"
-  teaser: "/assets/images/posts/betinha.jpg"
+  image: "/assets/images/posts/betinha/betinha2.jpg"
+  teaser: "/assets/images/posts/betinha/betinha2.jpg"
   caption: "Créditos: [**Martin  Sattler**](https://unsplash.com/photos/mBz6QjRZKvc) "
 categories: 
                 - Astronomia          
