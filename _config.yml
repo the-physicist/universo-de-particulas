@@ -30,7 +30,7 @@ description:  "Universo de Partículas é um blog de divulgação científica fo
 
 # Configurações de conexão
 url: "https://universodeparticulas.com.br" 
-baseurl: "/universo-de-particulas"
+baseurl: "/"
 
 # Compartilhando com Cards no Twitter
 twitter:
