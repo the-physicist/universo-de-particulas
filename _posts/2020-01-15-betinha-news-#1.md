@@ -4,7 +4,6 @@ layout: single
 #date: 2020-01-15
 sidebar:
   nav: "betinha"
-# classes: wide
 header:
   image: "/assets/images/posts/betinha/betinha1.jpg"
   teaser: "/assets/images/posts/betinha/betinha1.jpg"
@@ -23,7 +22,7 @@ toc_sticky: true
 toc_icon: "star"
 
 ---
-**Esse texto foi originalmente publicado no Facebook. Texto, estrutura e formatação foram mantidos para recordação futura.**
+**Esse texto foi originalmente publicado no Facebook. O texto foi mantido para futura nostalgia, mas novos elementos e formatação interativa foram adicionados.**
 {: .notice--warning}
 
 Tá acontecendo um fenômeno na Astronomia atualmente e gostaria de falar sobre porque é muito massa. Vou me esforçar pra ser breve e entendível, mas vocês sabem como eu sou prolixo e confuso. Então, senta ai que a história é trágica e longa, mas interessante. Quem estiver com pressa pode ler só o resumo.
