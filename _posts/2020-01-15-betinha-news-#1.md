@@ -1,12 +1,15 @@
 ---
 title: "Betinhas News #1"
+excerpt: "Entenda quem é a estrela Betinha e porquê queremos que ela morra."
 layout: single
 #date: 2020-01-15
 sidebar:
+  title: "Todas Betinhas News"
   nav: "betinha"
 header:
   image: "/assets/images/posts/betinha/betinha1.jpg"
   teaser: "/assets/images/posts/betinha/betinha1.jpg"
+  image_description: "Uma foto com o céu noturno estrelado, mas destacando uma estrela maior e mais azulada no centro."
   caption: "Créditos: [**Sven Scheuermeier**](https://unsplash.com/photos/tqzqzH8hb5A) "
 categories: 
                 - Astronomia          
