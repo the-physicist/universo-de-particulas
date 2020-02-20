@@ -23,7 +23,7 @@ title_separator: " | " # coloca o titúlo do site no título da aba em qualquer 
 logo: "/assets/images/site/logo.png" 
 locale: "pt-BR"
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 description:  "Universo de Partículas é um blog de divulgação científica focado 
                       nas áreas de Astronomia e Física de Partículas."
@@ -165,4 +165,4 @@ category_archive:
   path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /arquivo/
