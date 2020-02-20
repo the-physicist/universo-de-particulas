@@ -13,7 +13,7 @@ tags:
 ---
 
 **OBS: As threads estão disponibilizadas na ordem de mais recentes às mais antigas**
-{: .notice--info}
+{: .notice--warning}
 
 <h3> Divulgação Científica: Como Legendar vídeos no YouTube</h3>
 
