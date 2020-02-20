@@ -8,3 +8,10 @@ main:
   #    url: /astrothreadbr/AstroThreadBR/
   - title: "Sobre o Projeto"
     url: /sobre/
+
+betinha:
+  - title: "Betinha News #1"
+    url: /astronomia/betinha-news-1/
+  - title: "Betinha News #2"
+    url: /astronomia/betinha-news-2/
+   
