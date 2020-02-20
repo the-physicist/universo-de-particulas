@@ -12,8 +12,8 @@ tags:
   - twitter
 ---
 
-**OBS**: As threads estão disponibilizadas na ordem de mais recentes às mais antigas
-{: .notice--danger}
+**OBS: As threads estão disponibilizadas na ordem de mais recentes às mais antigas**
+{: .notice--info}
 
 <h3> Divulgação Científica: Como Legendar vídeos no YouTube</h3>
 
