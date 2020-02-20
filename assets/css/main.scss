@@ -1,18 +1,15 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
-@charset "utf-8";
-
-.body-effects{
-  padding:35px;
+/* Antiga estilização do plano de fundo
   position: absolute;
-  top: 150px;
-  right: 0px;
-  float: right;
-  height: 500px;
-  /*width: 250px;*/
-  }
+  top: 1%;
+  right: 1%;
+  float: left;
+  height: 50%;
+  width: auto;
+  */
+@charset "utf-8";
   
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
