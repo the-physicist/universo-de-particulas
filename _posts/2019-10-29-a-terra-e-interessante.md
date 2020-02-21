@@ -143,7 +143,7 @@ A velocidade da luz pode ser um fator limitante, mas com tempo suficiente, o imp
 
 ## Notas do tradutor
 
-* Utilizei a tradução literal, _sombra estelar_, para _starshade_ porque não encontrei correspondência técnica traduzida. Esse termo se refere, de forma resumida, a um **[projeto da NASA](https://science.nasa.gov/technology/technology-stories/starshade-enable-first-images-earth-sized-exoplanets)** que está desenvolvendo um instrumento a ser mandado ao espaço para bloquear a luz de estrelas para obter imagens diretas no espectro visível de exoplanetas.
+1. Utilizei a tradução literal, _sombra estelar_, para _starshade_ porque não encontrei correspondência técnica traduzida. Esse termo se refere, de forma resumida, a um **[projeto da NASA](https://science.nasa.gov/technology/technology-stories/starshade-enable-first-images-earth-sized-exoplanets)** que está desenvolvendo um instrumento a ser mandado ao espaço para bloquear a luz de estrelas para obter imagens diretas no espectro visível de exoplanetas.
 
 ---
 O objetivo das traduções é tornar acessível conteúdos e discussões que possam fomentar ainda mais nosso cenário científico, principalmente para quem está iniciando os estudos. Qualquer crítica ou sugestão é só entrar em contato.  Para acessar todas as Traduções, clique **[aqui](/traducoes/)**.
