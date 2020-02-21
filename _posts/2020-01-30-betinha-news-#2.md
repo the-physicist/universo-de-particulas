@@ -16,7 +16,8 @@ tags:
                 - Betinha
                 - Neutrinos
                 - Bettlejuice
-                - Sol             
+                - Sol         
+                - Astronomia    
 author: Marcos Oliveira
 ---
 

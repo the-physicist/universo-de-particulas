@@ -18,7 +18,8 @@ tags:
                 - Tradução
                 - Civilização Inteligente
                 - Trânsito Planetário
-                - Exoplanetas             
+                - Exoplanetas     
+                - Astronomia        
 author: Marcos Oliveira
 ---
 

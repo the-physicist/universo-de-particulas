@@ -17,7 +17,8 @@ tags:
                 - Betinha
                 - Supernova
                 - Bettlejuice
-                - Fim do mundo             
+                - Fim do mundo      
+                - Astronomia       
 author: Marcos Oliveira
 toc: true
 toc_label: "Navegue na Betinha"
