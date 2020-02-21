@@ -17,8 +17,8 @@ categories:
 tags: 
                 - Tradução
                 - Civilização Inteligente
-                - Bettlejuice
-                - Sol             
+                - Trânsito Planetário
+                - Exoplanetas             
 author: Marcos Oliveira
 ---
 
@@ -40,7 +40,7 @@ Eu estava pensando na projeção da luz através do espaço. Minha cortina estav
 Eu acho que essas são ótimas questões a serem ponderadas, e que a ciência tem muito a dizer sobre o que os alienígenas veriam olhando a Terra.
 {: style="text-align: justify;"}
 
-{% include figure image_path="/assets/images/posts/traducao/2019-10-29/2.png" alt="this is a placeholder image" caption="As órbitas dos oito principais planetas variam em excentricidade e a diferença entre periélio [momento em que a órbita da Terra está mais próxima do Sol] e afélio [momento em que a órbita da Terra está mais distante do Sol] em relação ao Sol. Não há razão fundamental para que alguns planetas sejam mais ou menos excêntricos que um ao outro; é simplesmente o resultado das condições iniciais das quais o Sistema Solar se formou. No entanto, as chances de um trânsito astronômico são muito maiores para um planeta interior como Mercúrio, que faz 4 desses trânsitos astronômicos a cada ano na Terra e tem quase 2% de chance de um bom alinhamento, do que qualquer um dos planetas externos, que levam mais tempo para transitar e têm chances muito menores de um alinhamento suficientemente bom. **Créditos da imagem:** NASA/JPL-CALTECH/R. HURT" class="text-justify" %}
+{% include figure image_path="/assets/images/posts/traducao/2019-10-29/2.png" alt="As órbitas dos oito principais planetas variam em excentricidade e a diferença entre periélio e afélio em relação ao Sol" caption="As órbitas dos oito principais planetas variam em excentricidade e a diferença entre periélio [momento em que a órbita da Terra está mais próxima do Sol] e afélio [momento em que a órbita da Terra está mais distante do Sol] em relação ao Sol. Não há razão fundamental para que alguns planetas sejam mais ou menos excêntricos que um ao outro; é simplesmente o resultado das condições iniciais das quais o Sistema Solar se formou. No entanto, as chances de um trânsito astronômico são muito maiores para um planeta interior como Mercúrio, que faz 4 desses trânsitos astronômicos a cada ano na Terra e tem quase 2% de chance de um bom alinhamento, do que qualquer um dos planetas externos, que levam mais tempo para transitar e têm chances muito menores de um alinhamento suficientemente bom. **Créditos da imagem:** NASA/JPL-CALTECH/R. HURT" class="text-justify" %}
 
 Em nosso Sistema Solar, a Terra é um planeta rochoso com uma atmosfera fina que orbita nosso Sol chamada de zona habitável: a uma distância em que a água líquida, dada uma atmosfera semelhante à Terra, pode existir de forma estável na superfície do planeta. Marte e Vênus também podem estar nessa região do espaço, mas Vênus está atualmente muito quente e Marte é muito frio (e com uma atmosfera muito fina) para que a vida semelhante à Terra prospere lá.
 {: style="text-align: justify;"}
