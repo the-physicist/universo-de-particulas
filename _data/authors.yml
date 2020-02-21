@@ -3,7 +3,7 @@
 Marcos Oliveira:
   name             : "Marcos Oliveira"
   avatar           : "/assets/images/authors/author-marcos.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Um estudande aprendendo a aprender constantemente. E às vezes compartilho o que acho que sei."
+  bio              : "Um estudande aprendendo a aprender constantemente, que às vezes compartilha o que acha que sabe."
   location         : "Physics @ UFTM"
   # email            : "email.marcos.oliveira@gmail.com"
   links:
