@@ -44,8 +44,8 @@ comments:
   provider: "facebook" 
   facebook:  # https://developers.facebook.com/docs/plugins/comments
     appid:
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+    num_posts: 5 # 5 (default)
+    colorscheme: dark # "light" (default), "dark"
 
 # Contato e redes gerais do site
 email: email.marcos.oliveira@gmail.com
