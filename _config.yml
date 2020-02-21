@@ -39,13 +39,11 @@ facebook:
   username: "omethiz"  
 og_image: "/assets/images/site/facebook-share.jpg" # Imagem de capa padrão pra compartilhar 
 
-# Habilitando comentários com Facebook
+# Habilitando comentários com Disqus
 comments:
-  provider: "facebook" 
-  facebook:  # https://developers.facebook.com/docs/plugins/comments
-    appid:
-    num_posts: 5 # 5 (default)
-    colorscheme: dark # "light" (default), "dark"
+  provider: "disqus" 
+  disqus:  
+    shortname: "https-universodeparticulas-com-br"
 
 # Contato e redes gerais do site
 email: email.marcos.oliveira@gmail.com
