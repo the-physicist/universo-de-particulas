@@ -10,6 +10,10 @@
   width: auto;
   */
 @charset "utf-8";
-  
+ 
+$link-color: #5da6bd;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
