@@ -31,11 +31,10 @@ author: Marcos Oliveira
 Em todo o Universo, trilhões de galáxias podem ser vistas, cada uma contendo tipicamente bilhões e bilhões de estrelas. Aqui na Terra, a vida não apenas surgiu, prosperou e se tornou complexa e diferenciada, mas inteligente, tecnologicamente avançada e até espacial, em certo nível. Mas esses últimos avanços — levando-nos à era do espaço e da informação — são extremamente recentes e o espaço é enorme. Se uma civilização alienígena nos visse, pareceríamos interessantes da perspectiva deles? Tayte Taliaferro quer saber, perguntando:
 {: style="text-align: justify;"}
 
-<blockquote>
-Eu estava pensando na projeção da luz através do espaço. Minha cortina estava aberta e vi as estrelas e algo de um livro surgiu na minha cabeça. Dizia que as estrelas que vemos são basicamente reprises. A luz é de há muito tempo, nem sabemos se a estrela ainda existe ou não.
-<br><br>
-[…] Quaisquer sinais que enviamos, ou mudanças em nosso planeta que possam ser observadas para provar uma vida inteligente aqui, levariam bilhões de anos para alcançar qualquer coisa viva e capaz de responder! O que você acha?
-</blockquote>
+> Eu estava pensando na projeção da luz através do espaço. Minha cortina estava aberta e vi as estrelas e algo de um livro surgiu na minha cabeça. Dizia que as estrelas que vemos são basicamente reprises. A luz é de há muito tempo, nem sabemos se a estrela ainda existe ou não.
+{: style="text-align: justify;"}
+
+> […] Quaisquer sinais que enviamos, ou mudanças em nosso planeta que possam ser observadas para provar uma vida inteligente aqui, levariam bilhões de anos para alcançar qualquer coisa viva e capaz de responder! O que você acha?
 {: style="text-align: justify;"}
 
 Eu acho que essas são ótimas questões a serem ponderadas, e que a ciência tem muito a dizer sobre o que os alienígenas veriam olhando a Terra.
