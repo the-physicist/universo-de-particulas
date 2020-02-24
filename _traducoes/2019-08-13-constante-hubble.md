@@ -9,7 +9,7 @@ sidebar:
 #tagline: "Se eles nos vissem como éramos antes da recente revolução industrial, haveria alguma razão para se preocupar particularmente conosco?"
 header:
   overlay_image: "/assets/images/posts/traducao/2019-08-13/1.jpg"
-  teaser: "/assets/images/posts/traducao/2019-08-21/cover.jpg"
+  teaser: "/assets/images/posts/traducao/2019-08-13/1.jpg"
   caption: "Créditos: **NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI)**"
 
 categories: 
