@@ -54,7 +54,7 @@ Eu acho esse tuíte muito bom porque eu consegui terminar o site em um tempo rel
 {% include feature_row id="feature_row2" type="right" %}
 {: style="text-align: justify;"}
 
-Também passei por várias dúvidas durante o desenvolvimento. Eu não sei nada sobre design e meu senso estétioa é bem peculiar, eu diria. Fiz vários apelos no Twitter e incomodei muitos amigos pedindo opinião. Obrigado a todos que comentaram e deram sugestões, mesmo que eu não tenha seguido algumas rs.
+Também passei por várias dúvidas durante o desenvolvimento. Eu não sei nada sobre design e meu senso estético é bem peculiar, eu diria. Fiz vários apelos no Twitter e incomodei muitos amigos pedindo opinião. Obrigado a todos que comentaram e deram sugestões, mesmo que eu não tenha seguido algumas rs.
 {: style="text-align: justify;"}
 
 {% include feature_row id="feature_row4" type="left" %}
