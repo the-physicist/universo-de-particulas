@@ -13,4 +13,15 @@ betinha:
     url: /astronomia/betinha-news-1/
   - title: "Betinha News #2"
     url: /astronomia/betinha-news-2/
-   
+
+traducoes-populares:
+  - title: "A equação mais importante do universo"
+    url: /traducoes/2019-08-21-equacao-mais-importante/
+  - title: "Como sabemos quão pequena é uma partícula elementar?"
+    url: /traducoes/2019-09-11-particula-elementar/
+  - title: "Onde fica o centro do universo?"
+    url: /traducoes/2019-09-18-centro-do-universo/
+  - title: "Uma civilização alienígena classificaria a Terra como um planeta interessante?"
+    url: /traducoes/2019-10-29-a-terra-e-interessante/
+  - title: "Desculpe, fãs de astronomia, a constante de Hubble não é uma constante"
+    url: /traducoes/2019-08-13-constante-hubble/
