@@ -1,10 +1,10 @@
 ---
-title: "Betinhas News #1"
+title: "Betinha News #1"
 excerpt: "Entenda quem é a estrela Betinha e porquê queremos que ela morra."
 layout: single
 #date: 2020-01-15
 sidebar:
-  title: "Todas Betinhas News"
+  title: "Todas Betinha News"
   nav: "betinha"
 header:
   image: "/assets/images/posts/betinha/betinha1.jpg"

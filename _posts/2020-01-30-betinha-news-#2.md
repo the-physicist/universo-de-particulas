@@ -1,10 +1,10 @@
 ---
-title: "Betinhas News #2"
+title: "Betinha News #2"
 excerpt: "Há uma forma de saber se a estrela Betinha está morrendo: detectando seus neutrinos."
 layout: single
 classes: wide
 sidebar:
-  title: "Todas Betinhas News" 
+  title: "Todas Betinha News" 
   nav: "betinha"
 header:
   image: "/assets/images/posts/betinha/betinha2.jpg"
