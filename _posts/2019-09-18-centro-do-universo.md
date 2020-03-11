@@ -5,8 +5,7 @@ layout: single
 classes: wide
 sidebar:
   nav: "traducoes-populares"
-  title: "Traduçõs Populares"
-#tagline: "Se eles nos vissem como éramos antes da recente revolução industrial, haveria alguma razão para se preocupar particularmente conosco?"
+  title: "Top 5 Traduções"
 header:
   overlay_image: "/assets/images/posts/traducao/2019-09-18/cover.jpg"
   teaser: "/assets/images/posts/traducao/2019-09-18/cover.jpg"

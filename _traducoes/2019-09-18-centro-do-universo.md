@@ -5,8 +5,7 @@ layout: single
 classes: wide
 sidebar:
   nav: "traducoes-populares"
-  title: "Traduçõs Populares"
-#tagline: "Se eles nos vissem como éramos antes da recente revolução industrial, haveria alguma razão para se preocupar particularmente conosco?"
+  title: "Top 5 Traduções"
 header:
   overlay_image: "/assets/images/posts/traducao/2019-09-18/cover.jpg"
   teaser: "/assets/images/posts/traducao/2019-09-18/cover.jpg"
@@ -31,9 +30,9 @@ author: Marcos Oliveira
 Há duas coisas que as pessoas aprendem sobre o universo que as surpreendem mais do que qualquer outra: que o universo não existe desde sempre, mas apenas por um tempo finito após o Big Bang, e que está se expandindo desde que esse evento ocorreu. A maioria das pessoas intuitivamente entende esse “bang [estrondo]” e imagina uma explosão e depois concebe a expansão como se visualizasse estilhaços lançados para fora em todas as direções. É verdade que a matéria e a energia no universo começaram em um estado quente e denso de uma só vez, e depois se expandiram e esfriaram à medida que todos os vários componentes se afastavam um do outro. Mas isso não significa que a imagem de “explosão” esteja correta. Recebemos uma pergunta muito boa de Jasper Evers, que pondera:
 {: style="text-align: justify;"}
 
-<blockquote>
-Estou me perguntando como não há um centro do universo e como a radiação cósmica de fundo está [igualmente] distante em todos os lugares que olhamos. Parece-me que quando o universo se expande…deve haver um lugar onde ele começa a se expandir.
-</blockquote>
+
+> Estou me perguntando como não há um centro do universo e como a radiação cósmica de fundo está [igualmente] distante em todos os lugares que olhamos. Parece-me que quando o universo se expande…deve haver um lugar onde ele começa a se expandir.
+
 {: style="text-align: justify;"}
 
 Afinal, o que essa pergunta questiona é exatamente o que se alinha à nossa experiência [senso comum] sempre que encontramos uma explosão.
@@ -128,9 +127,8 @@ A razão pela qual não podemos conhecer a verdadeira natureza do universo — t
 Se você vê o tecido do espaço como um pedaço de pão de passas fermentado ou um balão em expansão com moedas coladas à superfície, lembre-se de que a parte do universo a que podemos acessar provavelmente é apenas um pequeno componente do que [qualquer coisa que] realmente existe. O que é observável para nós define apenas um limite inferior para a totalidade do que está lá fora. O universo pode ser finito ou infinito, mas o que temos certeza é que ele está se expandindo, ficando menos denso e que objetos mais distantes aparecem como eram há muito tempo. Como a astrofísica Katie Mack observa:
 {: style="text-align: justify;"}
 
-<blockquote>
-O Universo está expandindo a maneira como sua mente está se expandindo. Não está se expandindo para nada; você apenas está ficando menos denso.
-</blockquote>
+> O Universo está expandindo a maneira como sua mente está se expandindo. Não está se expandindo para nada; você apenas está ficando menos denso.
+
 {: style="text-align: justify;"}
 
 ## Notas do tradutor
