@@ -34,7 +34,7 @@ baseurl: "/"
 
 # Compartilhando com Cards no Twitter
 twitter:
-  username: "particlemarcos"
+  username: "uparticulas"
 facebook:
   username: "omethiz"  
 og_image: "/assets/images/site/facebook-share.jpg" # Imagem de capa padrão pra compartilhar 
@@ -47,7 +47,7 @@ comments:
 
 # Contato e redes gerais do site
 email: email.marcos.oliveira@gmail.com
-twitter_username: particlemarcos
+twitter_username: uparticulas
 github_username: the-physicist
 
 # Padronizações
