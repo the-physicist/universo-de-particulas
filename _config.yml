@@ -36,7 +36,7 @@ baseurl: "/"
 twitter:
   username: "uparticulas"
 facebook:
-  username: "omethiz"  
+  username: "uparticulas"  
 og_image: "/assets/images/site/facebook-share.jpg" # Imagem de capa padrão pra compartilhar 
 
 # Habilitando comentários com Disqus
@@ -46,7 +46,7 @@ comments:
     shortname: "https-universodeparticulas-com-br"
 
 # Contato e redes gerais do site
-email: email.marcos.oliveira@gmail.com
+email: universodeparticulas@gmail.com
 twitter_username: uparticulas
 github_username: the-physicist
 
@@ -64,10 +64,10 @@ author:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/universodeparticulas/"
+      url: "https://facebook.com/uparticulas/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/particlemarcos"
+      url: "https://twitter.com/uparticulas"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/the-physicist"
@@ -117,13 +117,13 @@ footer:
       url: "https://facebook.com/universodeparticulas/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/particlemarcos"
+      url: "https://twitter.com/uparticulas"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/the-physicist"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/_mvoliveira_"
+      url: "https://instagram.com/uparticulas"
 
 defaults:
   # _posts
