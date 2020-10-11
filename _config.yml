@@ -58,7 +58,7 @@ words_per_minute: 300
 # Social e biografia do site
 author:
   name   : "The Physicist"
-  avatar : "/assets/images/site/welcome.jpg"
+  avatar : "/assets/images/site/welcome.png"
   bio    : "Olá, humano. Estou feliz pelo seu interesse na estranheza quântica e na vastidão do Universo. 
               Veja nossas publicações recentes e explore o site. Bons estudos!"
   links:
