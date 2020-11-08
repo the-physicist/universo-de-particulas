@@ -22,7 +22,7 @@ subtitle: "Da Estranheza Quântica às Maravilhas do Cosmo"
 title_separator: " | " # coloca o titúlo do site no título da aba em qualquer página
 logo: "/assets/images/site/logo.png" 
 locale: "pt-BR"
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.21.0
 minimal_mistakes_skin: dark
 search: true
 description:  "Universo de Partículas é um blog de divulgação científica focado 
